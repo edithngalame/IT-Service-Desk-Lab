@@ -45,8 +45,8 @@ Tasks completed:
 
 Example update commands:
 
-sudo apt update
-sudo apt upgrade
+    sudo apt update
+    sudo apt upgrade
 
 # 2. Apache Web Server Installation
 
